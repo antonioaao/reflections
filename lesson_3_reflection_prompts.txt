@@ -1,0 +1,22 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+	O repositório remoto seria útil para mim ao desenvolver um projeto em grupo, onde há a colaboração de mais de uma pessoa, ou para se ter acesso em outros dispositivos.
+
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+	Para se ter um melhor controle dos asrquivos que há no repositório e que eu desejo enviar.
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+	
+	Clone: Cria uma cópia idêntica no seu computaor a de um repositório existente no GitHub
+	Fork: Cria a cópia do repositório de outra pessoa diretamente na sua própria conta
+	Branches: Cria um novo desvio a partir de um commit, para fazer alterações no projeto sem alterar o principal.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+	O benefício é permitir ver as alterações feitas no mesmo arquivo porém em dispositivos diferentes, assim pode mesclar as versões e alterar o que prescisar.
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+	Sem o Git ou GitHub programar com mais de uma pessoa é uma atividade muito difícil pois seria preciso ficar constantemente em contato com os outros programadores. Assim o git hub ajuda muito nesse quesito, além de mostrar as alterações feitas por cada pessoa.
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+	Quando eu desejo testar novas implementaões, onde as mesmas não precisam funcionar com o projeto, desse modo as alterações são trabalhadas sem o menor risco de causar problemas no projeto principal.
+
+                                                                                                                                                                        
